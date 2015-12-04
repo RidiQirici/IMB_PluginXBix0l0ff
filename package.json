@@ -1,0 +1,19 @@
+{
+  "name": "imb_pluginxbix0l0ff",
+  "version": "1.0.1",
+  "description": "IMB plugin per bixoloff",
+  "main": "www/bxl_service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RidiQirici/IMB_PluginXBix0l0ff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RidiQirici/IMB_PluginXBix0l0ff/issues"
+  },
+  "homepage": "https://github.com/RidiQirici/IMB_PluginXBix0l0ff#readme"
+}
