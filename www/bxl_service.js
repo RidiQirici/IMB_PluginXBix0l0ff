@@ -1,4 +1,7 @@
-
+var Bixoloff = function (require, exports, module) {
+    
+    var exec = require('cordova/exec');
+	
 		var BXLService = function() {
 		};
 
@@ -259,3 +262,8 @@
 		};
 		
 		module.exports = new BXLService();
+};
+
+Bixoloff(require, exports, module);
+cordova.define("cordova/plugin/BXLService", Bixoloff);
+
