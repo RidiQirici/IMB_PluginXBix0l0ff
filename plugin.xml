@@ -28,7 +28,7 @@ Apache 2.0 License
         name="bxl_service"
         src="www/bxl_service.js" >
 
-        <clobbers target="cordova.plugin.BXLService" />
+        <clobbers target="cordova.plugins.BXLService" />
     </js-module>
 
     <platform name="android" >
